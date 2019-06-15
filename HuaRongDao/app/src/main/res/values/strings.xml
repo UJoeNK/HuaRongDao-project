@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CROSSOVER</string>
+    <string name="start_game_text">开始游戏</string>
+    <string name="undo">回退</string>
+    <string name="restart">重置</string>
+    <string name="select_mode">选择关卡</string>
+    <string name="exit_game">退出游戏</string>
+    <string name="todo">TODO</string>
+</resources>
